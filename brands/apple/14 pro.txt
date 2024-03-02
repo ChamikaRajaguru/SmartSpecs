@@ -1,0 +1,73 @@
+NETWORK	
+	Technology	
+			GSM / CDMA / HSPA / EVDO / LTE / 5G
+LAUNCH		Announced	2022, September 07
+		Status	Available. Released 2022, September 16
+BODY	
+	Dimensions	160.7 x 77.6 x 7.9 mm (6.33 x 3.06 x 0.31 in)
+	Weight	240 g (8.47 oz)
+	Build	Glass front (Corning-made glass), glass back (Corning-made glass), stainless steel frame
+	SIM	Nano-SIM and eSIM - International
+		Dual eSIM with multiple numbers - USA
+		Dual SIM (Nano-SIM, dual stand-by) - China
+ 		IP68 dust/water resistant (up to 6m for 30 min)
+		Apple Pay (Visa, MasterCard, AMEX certified)
+
+DISPLAY		Type	LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)
+		Size	6.7 inches, 110.2 cm2 (~88.3% screen-to-body ratio)
+		Resolution	1290 x 2796 pixels, 19.5:9 ratio (~460 ppi density)
+		Protection	Ceramic Shield glass
+ 				Always-On display
+PLATFORM	OS	iOS 16, upgradable to iOS 16.6, planned upgrade to iOS 17
+		Chipset	Apple A16 Bionic (4 nm)
+		CPU	Hexa-core (2x3.46 GHz Everest + 4x2.02 GHz Sawtooth)
+		GPU	Apple GPU (5-core graphics)
+
+MEMORY		ard slot	No
+		Internal	128GB 6GB RAM, 256GB 6GB RAM, 512GB 6GB RAM, 1TB 6GB RAM
+ 				NVMe
+
+MAIN CAMERA	Triple		48 MP, f/1.8, 24mm (wide), 1/1.28", 1.22µm, dual pixel PDAF, sensor-shift OIS
+				12 MP, f/2.8, 77mm (telephoto), 1/3.5", PDAF, OIS, 3x optical zoom
+				12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55", 1.4µm, dual pixel PDAF
+				TOF 3D LiDAR scanner (depth)
+		Features	Dual-LED dual-tone flash, HDR (photo/panorama)
+		Video		4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps),
+ 				ProRes, Cinematic mode (4K@24/30fps), stereo sound rec.
+
+SELFIE CAMERA	Single		12 MP, f/1.9, 23mm (wide), 1/3.6", PDAF, OIS (unconfirmed)
+				SL 3D, (depth/biometrics sensor)
+		Features	HDR, Cinematic mode (4K@24/30fps)
+		Video	4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS
+
+SOUND		Loudspeaker	Yes, with stereo speakers
+		3.5mm jack	No
+
+COMMS		WLAN	Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot
+		Bluetooth	5.3, A2DP, LE
+		Positioning	GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS
+		NFC	Yes
+		Radio	No
+		USB	Lightning, USB 2.0
+
+FEATURES	Sensors	Face ID, accelerometer, gyro, proximity, compass, barometer
+ 			Ultra Wideband (UWB) support
+			Emergency SOS via satellite (SMS sending/receiving)
+
+BATTERY	Type	Li-Ion 4323 mAh, non-removable (16.68 Wh)
+Charging	Wired, PD2.0, 50% in 30 min (advertised)
+15W wireless (MagSafe)
+7.5W wireless (Qi)
+MISC	Colors	Space Black, Silver, Gold, Deep Purple
+Models	A2894, A2651, A2893, A2895, iphone15,3
+SAR	1.15 W/kg (head)     1.07 W/kg (body)    
+SAR EU	0.99 W/kg (head)     0.98 W/kg (body)    
+Price	$ 1,258.60 / € 1,209.58 / £ 1,049.00 / ₹ 127,999
+TESTS	Performance	AnTuTu: 955884 (v9)
+GeekBench: 5423 (v5.1)
+GFXBench: 54fps (ES 3.1 onscreen)
+Display	Contrast ratio: Infinite (nominal)
+Camera	Photo / Video
+Loudspeaker	-24.3 LUFS (Very good)
+Battery life	
+Endurance rating 121h
